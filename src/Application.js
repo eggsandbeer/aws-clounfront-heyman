@@ -19,7 +19,7 @@ function Application() {
           <NavigationLink to="/notes/cat">Cat Ipsum</NavigationLink>
           <NavigationLink to="/notes/office">Office Ipsum</NavigationLink>
           <NavigationLink to="/notes/beatles">
-            The Beatles - pretty cool dog.
+            The Beatles - pretty cool dog. HOLY GUACAMOLE.
           </NavigationLink>
         </Navigation>
         <section className="col-span-9 p-4">
