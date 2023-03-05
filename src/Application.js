@@ -29,7 +29,7 @@ function Application() {
               element={
                 <div>
                   <img
-                    src="/beatles.jpg"
+                    src="/not-beatles.jpg"
                     alt="Possibly the Beatles, possibly"
                   />
                 </div>
